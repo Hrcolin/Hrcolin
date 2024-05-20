@@ -1,4 +1,4 @@
-
+Olá, meu nome é Haroldo Colin. Sou estudante do curso de Análise e Desenvolvimento de Sistemas e atualmente estou no segundo semestre. Além das disciplinas regulares do curso, estou me dedicando a um curso extracurricular de Análise de Banco de Dados, oferecido pela Udemy, com carga horária total de 59 horas.Neste curso, estou aprofundando meus conhecimentos em SQL, MySQL, PostgreSQL, Oracle, T-SQL e Modelagem de Dados. Tenho me empenhado diariamente para aprimorar minhas habilidades e estar preparado para os desafios dessa nova fase da minha vida profissional.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
