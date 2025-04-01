@@ -1,21 +1,21 @@
-Olá, meu nome é Haroldo Colin. Sou estudante do curso de Análise e Desenvolvimento de Sistemas e atualmente estou no segundo semestre. Além das disciplinas regulares do curso, estou me dedicando a um curso extracurricular de Análise de Banco de Dados, oferecido pela Udemy, com carga horária total de 59 horas.Neste curso, estou aprofundando meus conhecimentos em SQL, MySQL, PostgreSQL, Oracle, T-SQL e Modelagem de Dados. Tenho me empenhado diariamente para aprimorar minhas habilidades e estar preparado para os desafios dessa nova fase da minha vida profissional.
+Olá, meu nome é Haroldo Colin. Sou estudante do curso de Análise e Desenvolvimento de Sistemas e atualmente estou no quarto e ultimo semestre. Além das disciplinas regulares do curso, estou me dedicando a um curso extracurricular de Análise de Banco de Dados, oferecido pela Udemy, com carga horária total de 59 horas. Neste curso, estou aprofundando meus conhecimentos em SQL, MySQL, PostgreSQL, Oracle, T-SQL e Modelagem de Dados, e Pythom tambem.  Tenho me empenhado diariamente para aprimorar minhas habilidades e estar preparado para os desafios dessa nova fase da minha vida profissional.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou Haroldo Colin e estou em busca de umo novo Desafio. E etou em uma transição de carreira, tenho me dedicado aos estudos  e me  aprimorar em progração de desenvolvimeto de sistemas <strong>Sua stack</strong>.<br>
+  
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: ** Sql , Python .**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: ** Sql, Python.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌  Estou a disposição para uma conversa ou uma  entrevista para novos desafios : ⤵️
 </p>
 
 <p align="left">
