@@ -11,7 +11,7 @@ Olá, meu nome é Haroldo Colin. Sou estudante do curso de Análise e Desenvolvi
 </p>
 
 <p align="left">
-  💼 Ferramentas: ** VSCODE, Python.**
+  💼 Ferramentas: ** VSCODE, Python, Paycharm,
 </p>
 
 <p align="left">
