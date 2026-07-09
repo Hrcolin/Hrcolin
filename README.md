@@ -1,32 +1,65 @@
-Olá, meu nome é Haroldo Colin. Sou estudante do curso de Análise e Desenvolvimento de Sistemas e atualmente estou no quarto e ultimo semestre. Além das disciplinas regulares do curso, estou me dedicando a um curso extracurricular de Análise de Banco de Dados, oferecido pela Udemy, com carga horária total de 59 horas. Neste curso, estou aprofundando meus conhecimentos em SQL, MySQL, PostgreSQL, Oracle, T-SQL e Modelagem de Dados, e Pythom tambem.  Tenho me empenhado diariamente para aprimorar minhas habilidades e estar preparado para os desafios dessa nova fase da minha vida profissional.
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Olá, eu sou Haroldo Colin! 👋
+Analista de Dados | Business Intelligence | SQL | Python | Power BI
 
-<p align="left"> 
-  Sou Haroldo Colin e estou em busca de umo novo Desafio. E etou em uma transição de carreira, tenho me dedicado aos estudos  e me  aprimorar em progração de desenvolvimeto de sistemas <strong>Sua stack</strong>.<br>
-  
-</p>
+Sou formado em Análise e Desenvolvimento de Sistemas e estou em transição para a área de Análise de Dados, unindo mais de 20 anos de experiência profissional em gestão, liderança de equipes, análise de indicadores e melhoria de processos com conhecimentos em Business Intelligence e análise de dados.
 
-<p align="left">
-  🦄 Linguagens: ** Sql , Python .**
-</p>
+Minha missão é transformar dados em informações estratégicas que apoiem a tomada de decisões e gerem valor para as empresas.
 
-<p align="left">
-  💼 Ferramentas: ** VSCODE, Python, Paycharm,
-</p>
+🚀 Tecnologias
+🗄️ SQL (MySQL, PostgreSQL, Oracle e T-SQL)
+🐍 Python
+📊 Power BI
+📈 Excel
+⚡ DAX
+🔄 Power Query
+🏗️ Modelagem de Dados
+🌿 Git & GitHub
+📚 Atualmente estudando
+Análise de Dados
+Business Intelligence
+ETL
+Visualização de Dados
+Python para Ciência de Dados
+SQL Avançado
+Git e GitHub
+📂 Projetos em destaque
 
-<p align="left">
-  💌  Estou a disposição para uma conversa ou uma  entrevista para novos desafios : ⤵️
-</p>
+Neste GitHub você encontrará projetos voltados para problemas reais de negócio, incluindo:
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=haroldocolin78@gmail.com ="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+📊 Dashboards interativos em Power BI
+📈 Análise de indicadores (KPIs)
+🗄️ Consultas SQL
+🐍 Scripts em Python para tratamento e análise de dados
+🔄 Projetos de ETL
+📋 Modelagem de Dados
+📉 Business Intelligence
+💼 Minha experiência
+
+Minha trajetória profissional foi construída em funções de liderança, gestão operacional e melhoria de processos, desenvolvendo competências como:
+
+Gestão de equipes
+Planejamento estratégico
+Acompanhamento de indicadores
+Elaboração de relatórios gerenciais
+Análise de desempenho
+Otimização de processos
+Tomada de decisão baseada em dados
+
+Hoje direciono toda essa experiência para a área de Dados, combinando visão de negócio com tecnologia.
+
+🎯 Objetivo
+
+Busco oportunidades como:
+
+Analista de Dados
+Analista de BI
+Analista de Indicadores
+Analista de Business Intelligence
+
+Meu objetivo é desenvolver soluções que transformem dados em informações estratégicas para apoiar decisões e impulsionar resultados.
+
+📫 Vamos nos conectar
+💼 LinkedIn: www.linkedin.com/in/haroldocolin
+📧 Em breve novos projetos serão publicados neste perfil.
+
+⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de Dados.
