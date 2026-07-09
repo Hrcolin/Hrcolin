@@ -1,6 +1,10 @@
-Added banner image and updated personal introduction.
+<p align="center">
+  <img src="./banner.png.png" alt="Banner Haroldo Colin" width="100%">
+</p>
 
-banner.png
+# 👋 Olá, eu sou Haroldo Colin!
+
+## 📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 Olá, eu sou Haroldo Colin ! 👋
 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 
