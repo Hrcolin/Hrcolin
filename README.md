@@ -1,6 +1,6 @@
 Added banner image and updated personal introduction.
 
-banner.png.png
+banner.png
 Olá, eu sou Haroldo Colin ! 👋
 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 
