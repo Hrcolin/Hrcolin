@@ -1,10 +1,9 @@
 <p align="center">
   <img src="./banner.png.png" alt="Banner Haroldo Colin" width="80%">
 </p>
- }
+<sup><b>📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI</b></sup>
 
-## 📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI
-Analista de Dados | Business Intelligence | SQL | Python | Power BI
+
 
 Sou formado em Análise e Desenvolvimento de Sistemas e estou em transição para a área de Análise de Dados, unindo mais de 20 anos de experiência profissional em gestão, liderança de equipes, análise de indicadores e melhoria de processos com conhecimentos em Business Intelligence e análise de dados.
 
