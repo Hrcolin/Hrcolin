@@ -1,9 +1,8 @@
 <p align="center">
   <img src="./banner.png.png" alt="Banner Haroldo Colin" width="80%">
 </p>
- {
+ }
     font-size: 14px;
-
 ## 📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 }
