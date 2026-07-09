@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+<img src="banner.png" width="100%">
 Olá, eu sou Haroldo Colin ! 👋
 Analista de Dados | Business Intelligence | SQL | Python | Power BI
 
