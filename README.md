@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png.png" alt="Banner Haroldo Colin" width="80%">
 </p>
-<sup><b>📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI</b></sup>
+<p align="center"><small>📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI</small></p>
 
 
 
