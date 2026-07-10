@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png.png" alt="Banner Haroldo Colin" width="85%">
+  <img src="./banner.png.png" alt="Banner Haroldo Colin" width="88%">
 </p>
 <p align="center"><small>📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI</small></p>
 
