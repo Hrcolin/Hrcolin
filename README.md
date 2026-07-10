@@ -1,69 +1,52 @@
-<p align="center">
-  <img src="./banner.png.png" alt="Banner Haroldo Colin" width="88%">
-</p>
-<p align="center"><small>📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI</small></p>
+<h1 align="center">Olá! Eu sou Haroldo Colin 👋</h1>
 
+<h3 align="center">
+📊 Analista de Dados | Business Intelligence | SQL | Python | Power BI
+</h3>
 
+---
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou em transição para a área de Análise de Dados, unindo mais de 20 anos de experiência profissional em gestão, liderança de equipes, análise de indicadores e melhoria de processos com conhecimentos em Business Intelligence e análise de dados.
+## 👨‍💻 Sobre mim
 
-Minha missão é transformar dados em informações estratégicas que apoiem a tomada de decisões e gerem valor para as empresas.
+Sou formado em Análise e Desenvolvimento de Sistemas e estou em transição para a área de Dados.
 
-🚀 Tecnologias
-🗄️ SQL (MySQL, PostgreSQL, Oracle e T-SQL)
-🐍 Python
-📊 Power BI
-📈 Excel
-⚡ DAX
-🔄 Power Query
-🏗️ Modelagem de Dados
-🌿 Git & GitHub
-📚 Atualmente estudando
-Análise de Dados
-Business Intelligence
-ETL
-Visualização de Dados
-Python para Ciência de Dados
-SQL Avançado
-Git e GitHub
-📂 Projetos em destaque
+Tenho experiência com Power BI, SQL, Python, Excel, DAX e Power Query, desenvolvendo dashboards e análises voltadas para apoiar a tomada de decisão baseada em dados.
 
-Neste GitHub você encontrará projetos voltados para problemas reais de negócio, incluindo:
+---
 
-📊 Dashboards interativos em Power BI
-📈 Análise de indicadores (KPIs)
-🗄️ Consultas SQL
-🐍 Scripts em Python para tratamento e análise de dados
-🔄 Projetos de ETL
-📋 Modelagem de Dados
-📉 Business Intelligence
-💼 Minha experiência
+## 🚀 Tecnologias
 
-Minha trajetória profissional foi construída em funções de liderança, gestão operacional e melhoria de processos, desenvolvendo competências como:
+- 📊 Power BI
+- 🗄 SQL
+- 🐍 Python
+- 📈 Excel
+- ⚡ DAX
+- 🔄 Power Query
 
-Gestão de equipes
-Planejamento estratégico
-Acompanhamento de indicadores
-Elaboração de relatórios gerenciais
-Análise de desempenho
-Otimização de processos
-Tomada de decisão baseada em dados
+---
 
-Hoje direciono toda essa experiência para a área de Dados, combinando visão de negócio com tecnologia.
+## 📂 Projetos em destaque
 
-🎯 Objetivo
+📊 Dashboard RH
 
-Busco oportunidades como:
+📈 Dashboard de Vendas
 
-Analista de Dados
-Analista de BI
-Analista de Indicadores
-Analista de Business Intelligence
+📦 Dashboard Logístico
 
-Meu objetivo é desenvolver soluções que transformem dados em informações estratégicas para apoiar decisões e impulsionar resultados.
+💰 Dashboard Financeiro
 
-📫 Vamos nos conectar
-💼 LinkedIn: www.linkedin.com/in/haroldocolin
-📧 Em breve novos projetos serão publicados neste perfil.
+🐍 Projetos em Python
 
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de Dados.
+🗄 Consultas SQL
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn
+
+www.linkedin.com/in/haroldocolin
+
+📧 Email
+
+(seu e-mail)
